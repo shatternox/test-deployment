@@ -1,0 +1,5 @@
+1. build an environment and install segala kebutuhan
+2. pip install gunicorn
+3. pip freeze > requirements.txt (bikin requirements.txt)
+4. bikin Procfile isi >>> (web: gunicorn app:app)
+5. https://devcenter.heroku.com/articles/heroku-cli
